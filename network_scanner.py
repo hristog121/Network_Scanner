@@ -7,4 +7,4 @@ def scan(ip):
     scapy.arping(ip)
 
 
-scan("192.168.3.1")
+scan("")
